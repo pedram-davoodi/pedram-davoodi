@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **info@pedramdavoodi.ir**
 
-- 📄 Know about my experiences [https://pedramdavoodi.ir/pedrmadvoodi-en.pdf](https://pedramdavoodi.ir/pedrmdavoodi-en.pdf)
+- 📄 Know about my experiences [https://pedramdavoodi.ir/pedrmadvoodi-en.pdf](https://pedramdavoodi.ir/pedramdavoodi-en.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
