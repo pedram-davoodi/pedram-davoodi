@@ -9,13 +9,9 @@
 
 - 🔭 I’m currently working on [IranServer Hub](https://hub.iranserver.com/)
 
-- 👨‍💻 All of my projects are available at [https://pedramdavoodi.ir/#work-card](https://pedramdavoodi.ir/#work-card)
-
 - 📝 I regularly write articles on [https://pedramdavoodi.ir/](https://pedramdavoodi.ir/)
 
 - 💬 Ask me about **PHP, Laravel**
-
-- 📫 How to reach me **info@pedramdavoodi.ir**
 
 - 📄 Know about my experiences [https://pedramdavoodi.ir/pedramdavoodi-en.pdf](https://pedramdavoodi.ir/pedramdavoodi-en.pdf)
 
