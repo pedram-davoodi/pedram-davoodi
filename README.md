@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://pedramdavoodi.ir/pedramdavoodi-en.pdf](https://pedramdavoodi.ir/pedramdavoodi-en.pdf)
 
 ###
-
+<h3 align="left">Connect with me:</h3>
 
 <div align="left">
   <a target="_blank" href="instagram.com/pedramdavoodi.ir/">
