@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PHP, Laravel**
 
-- 📄 Know about my experiences [https://pedramdavoodi.ir/pedramdavoodi-en.pdf](https://pedramdavoodi.ir/pedramdavoodi-en.pdf)
+- 📄 Know about my experiences [Pedram Davoudi.pdf](https://drive.google.com/file/d/1sRQDGISDVDrwMifSBIv-0xEu93IV_G2a/view?pli=1)
 
 ###
 <h3 align="left">Connect with me:</h3>
